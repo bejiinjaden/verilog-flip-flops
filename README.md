@@ -8,11 +8,13 @@ This repository is part of my learning journey in digital design and VLSI, aimin
 -SR Flip-Flop
 -JK Flip-Flop
 -Master-Slave Flip-Flop
+
 **Features**
 -Synthesizable Verilog code
 -Clean and minimal design
 -Testbenches for verification
 -Compatible with standard simulators (ModelSim, Vivado)
+
 **Usage**
 -Compile design and testbench files
 -Run simulation
