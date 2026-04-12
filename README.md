@@ -1,4 +1,4 @@
-Verilog Flip-Flops
+**Verilog Flip-Flops**
 
 A collection of basic flip-flop implementations in Verilog, along with their testbenches. These designs focus on fundamental sequential logic concepts and are written to be simple, clear, and easy to understand.
 
